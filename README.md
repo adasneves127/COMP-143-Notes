@@ -40,16 +40,16 @@ Password will be sent when required.
 It is important that you attend at least one session per week. Professor Stanley and I have decided upon the following attendance policy:
 You must show up to at least 51% of all PAL sessions. So in this semester, you must show up to at least 7 of the PAL sessions.
 
-# What we did 
-Week 1
-Week 2
-Week 3
-Week 4
-Week 5
-Week 6
-Week 7
-Week 8
-Week 9
-Week 10
-Week 11
-Week 12
+### What we did 
+#### Week 1
+#### Week 2
+#### Week 3
+#### Week 4
+#### Week 5
+#### Week 6
+#### Week 7
+#### Week 8
+#### Week 9
+#### Week 10
+#### Week 11
+#### Week 12
