@@ -25,7 +25,7 @@ These are the hours I am available, and I have provided a room that is open duri
 |:---|:---:| ----:|
 |S|	By Request|	Zoom|
 |M	|3:45-5	|DMF 359 or Zoom|
-|T	|2-3	DMF |367 |
+|T	|2-3|	DMF 367 |
 |W	|3:45-5	|DMF 359 or Zoom|
 |R	|NONE |	|
 |F	|3:45-5	|DMF 294|
@@ -42,6 +42,7 @@ You must show up to at least 51% of all PAL sessions. So in this semester, you m
 
 ### What we did 
 #### Week 1
+General Introductions (No Coding)
 #### Week 2
 #### Week 3
 #### Week 4
