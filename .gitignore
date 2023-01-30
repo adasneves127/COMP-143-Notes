@@ -1,0 +1,11 @@
+**/venv
+**/activate
+
+**/*.tex
+**/*.aux
+**/*.fdb_latexmk
+**/*.fls
+**/*.log
+**/*.out
+**/*.swp
+**/*.synctex.gz
