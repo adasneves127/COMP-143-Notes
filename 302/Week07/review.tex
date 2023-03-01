@@ -1,0 +1,90 @@
+\documentclass{article}
+\usepackage[margin=0.5in]{geometry}
+
+\begin{document}
+    \begin{itemize}
+        \item Ram is used for long-term memory? False
+        \item The clear() method empties a list and leaves you with []? True
+        \item The append() method adds an element to the start of a list? False
+        \item Python is an interpreted language: True
+        \item Sequence[-1] returns the first element of a sequence. False
+    \end{itemize}
+    \section*{Short Answer}
+    \begin{enumerate}
+        \item What does the `CPU' do in a computer
+        \begin{itemize}
+            \item The `brain' of the computer
+            \item Everything involves the cpu in one way or another.
+            \item Processes Everything
+            \item Responsible for running the code that we give it. (Only understands basic instructions in a basic language)
+        \end{itemize}
+        \item What does the `input()' function do in Python? What data type do you get back?
+        \begin{itemize}
+            \item Gets the user's input.
+            \item Stores whatever they input as a \underline{string}
+            \item Takes in a prompt to be displayed to the user.
+        \end{itemize}
+        \item Say we have some code like this:\\
+        \begin{verbatim}
+            num1 = 7**2
+            num2 = 7 / 2
+            num3 = 7 // 2
+            print(num1, num2, num3)
+        \end{verbatim}
+        What will this print: `49 3.5 3'\\
+        \item List 3 datatypes:
+        \begin{itemize}
+            \item String
+            \item Float
+            \item Integer
+            \item Boolean
+            \item List
+            \item Tuple
+            \item type
+        \end{itemize}
+        \item $[1, 2, 3] + [4, 5] = [1, 2, 3, 4, 5]$
+        \item Range:
+        \begin{itemize}
+            \item range(10, 20) = [10, 11, 12, 13, 14, 15, 16, 17, 18, 19]
+            \item range(50, 60, 2) = [50, 52, 54, 56, 58]
+            \item range(-10, -25, -3) = [-10, -13, -16, -19, -22]
+            \item range(20, 10, -1) = [20, 19, 18, 17, 16, 15, 14, 13, 12, 11]
+        \end{itemize}
+        \item 
+\begin{verbatim}
+list_sample = [1, 2, 3]
+list_sample = list_sample * 2
+list_sample.append(1)
+print(list_sample) # [1, 2, 3, 1, 2, 3, 1]
+list_sample.sort()
+print(list_sample) # [1, 1, 1, 2, 2, 3, 3]
+\end{verbatim}
+    \item \begin{verbatim}
+        my_string = "ThE BrOwN FoX RaN to The Farm"
+        my_string.count("T") # 2
+        my_string.lower() # "the brown fox ran to the farm"
+        my_string.replace("a","z") # ThE BrOwN FoX RzN to The Fzrm
+    \end{verbatim}
+    \end{enumerate}
+
+    \section*{Open Ended Questions}
+    \begin{enumerate}
+        \item In Computing, what do hardware and software do? Just a brief description is fine.\\
+        Hardware is the components that make up the computer. Software is the coding.\\
+        We need both hardware and software.\\
+        \item What does it mean when we're taking a `slice' of a sequence (strings and lists)\\
+        Taking a part of it.\\
+        Slices return substrings or sublists\\
+        Indexes return characters or individual items\\
+        \item What are data types? What purpose do they serve?\\
+        A way to categorize information within a program.\\
+        It tells the program how it can interact with a given piece of data.\\
+        Such as giving operators and methods.
+        \item Define what a variable is.\\
+        A `placeholder' value.\\
+        A container that has data within it. The data can be of any data type, and has methods and operations that can be performed on it.
+        \item What is mutable vs immutable?\\
+        \textbf{Mutable} Data can be changed after assignment\\
+        \textbf{Immutable} Data cannot be changed after assignment.
+    \end{enumerate}
+\end{document}
